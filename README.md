@@ -6,7 +6,7 @@ Welcome to Alvin's Portfolio! This is a personal portfolio website showcasing my
 
 ## Project Description
 
-This portfolio website serves as a digital resume for Muhammad Alvino Firmansyah, an Informatics Engineering student at Surabaya State University. It highlights my journey in software engineering, my projects, and my educational background.
+This portfolio website serves as a digital resume for Muhammad Alvino Firmansyah, an Informatics Engineering in the Information Systems study program student at Surabaya State University. It highlights my journey in software engineering, my projects, and my educational background.
 
 ## How to Run the Project Locally
 
